@@ -1,3 +1,3 @@
 # webspider_jiepai
 
-Get the images of keywords 'jiepai' at https://www.toutiao.com/ 
+Get the images of keywords '街拍' (street photography) at https://www.toutiao.com/ 
